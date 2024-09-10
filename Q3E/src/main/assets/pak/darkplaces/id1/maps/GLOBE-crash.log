@@ -1,0 +1,172 @@
+Renderer info: GeForce GTX 970/PCIe/SSE2 version 4.6.0 NVIDIA 456.71 from NVIDIA Corporation
+Depth buffer bits: 24
+Multisampling enabled
+Adding file system path "C:/quakedev/Trenchbroom\\defaults\\assets"
+Adding file system path "C:/quakedev\\id1"
+Adding file system package "pak0.pak"
+Adding file system package "pak1.pak"
+Adding file system package "pakk.pak"
+Adding file system package "trater.pak"
+Loading document from C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/cristopaodeacucar.map
+Loaded entity definition file Quake.fgd
+Loaded texture collection '"textures\\favela.wad"'
+Loaded texture collection '"textures\\favelinha.wad"'
+Loaded texture collection '"textures\\START.wad"'
+Loaded "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/cristopaodeacucar.map" in 410ms
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/cristopaodeacucar.map" in 9ms
+Saved "C:/quakedev/id1/maps/cristopaodeacucar.map" in 18ms
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Saved "C:/quakedev/id1/maps/cristopaodeacucar.map" in 8ms
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Saved "C:/quakedev/id1/maps/cristopaodeacucar.map" in 8ms
+Adding file system path "C:/quakedev/Trenchbroom\\defaults\\assets"
+Adding file system path "C:/quakedev\\id1"
+Adding file system package "pak0.pak"
+Adding file system package "pak1.pak"
+Adding file system package "pakk.pak"
+Adding file system package "trater.pak"
+Loading document from C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/cristopaodeacucar2.map
+Loaded entity definition file Quake.fgd
+Loaded texture collection '"textures\\favela.wad"'
+Loaded texture collection '"textures\\favelinha.wad"'
+Loaded texture collection '"textures\\START.wad"'
+Loaded "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/cristopaodeacucar2.map" in 371ms
+Parsed successfully as Valve entities (unknown position)
+Created autosave backup at "C:\\quakedev\\AVIAOZINHODOTRAFICO3 Early Access Alpha\\id1\\maps\\autosave\\cristopaodeacucar2.1.map"
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/cristopaodeacucar2.map" in 11ms
+Adding file system path "C:/quakedev/Trenchbroom\\defaults\\assets"
+Adding file system path "C:/quakedev\\id1"
+Adding file system package "pak0.pak"
+Adding file system package "pak1.pak"
+Adding file system package "pakk.pak"
+Adding file system package "trater.pak"
+Loading document from C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map
+Loaded entity definition file Quake.fgd
+Loaded texture collection '"textures\\favelinha.wad"'
+Loaded texture collection '"textures\\tim.wad"'
+Loaded texture collection '"textures\\START.wad"'
+Loaded "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map" in 300ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map" in 9ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map" in 8ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map" in 8ms
+Adding file system path "C:/quakedev/Trenchbroom\\defaults\\assets"
+Adding file system path "C:/quakedev\\id1"
+Adding file system package "pak0.pak"
+Adding file system package "pak1.pak"
+Adding file system package "pakk.pak"
+Adding file system package "trater.pak"
+Loading document from C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map
+Loaded entity definition file Quake.fgd
+Loaded texture collection '"textures\\HalfLife_full.wad"'
+Loaded texture collection '"textures\\favelinha.wad"'
+Loaded texture collection '"textures\\defini.wad"'
+Loaded texture collection '"textures\\estadio.wad"'
+Loaded texture collection '"textures\\favela.wad"'
+Loaded texture collection '"textures\\tim.wad"'
+Loaded "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 2606ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Parsed successfully as Valve entities (unknown position)
+Parsed successfully as Valve entities (unknown position)
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Created autosave backup at "C:\\quakedev\\AVIAOZINHODOTRAFICO3 Early Access Alpha\\id1\\maps\\autosave\\copaloco.1.map"
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 9ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+Created autosave backup at "C:\\quakedev\\AVIAOZINHODOTRAFICO3 Early Access Alpha\\id1\\maps\\autosave\\copaloco.2.map"
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/copaloco.map" in 10ms
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Saved "C:\\quakedev\\id1\\maps\\CARRETA.map" in 33ms
+Adding file system path "C:/quakedev/Trenchbroom\\defaults\\assets"
+Adding file system path "C:/quakedev\\id1"
+Adding file system package "pak0.pak"
+Adding file system package "pak1.pak"
+Adding file system package "pakk.pak"
+Adding file system package "trater.pak"
+Loading document from C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map
+Loaded entity definition file Quake.fgd
+Loaded texture collection '"textures\\favelinha.wad"'
+Loaded texture collection '"textures\\tim.wad"'
+Loaded texture collection '"textures\\START.wad"'
+Loaded "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map" in 407ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map" in 9ms
+Saved "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/salga.map" in 9ms
+Adding file system path "C:/quakedev/Trenchbroom\\defaults\\assets"
+Adding file system path "C:/quakedev\\id1"
+Adding file system package "pak0.pak"
+Adding file system package "pak1.pak"
+Adding file system package "pakk.pak"
+Adding file system package "trater.pak"
+Loading document from C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/GLOBE.map
+Loaded entity definition file Quake.fgd
+Loaded texture collection '"textures\\HalfLife_full.wad"'
+Loaded texture collection '"textures\\favela.wad"'
+Loaded texture collection '"textures\\favelinha.wad"'
+Loaded texture collection '"textures\\estadio.wad"'
+Loaded texture collection '"textures\\START.wad"'
+Loaded texture collection '"textures\\pumpup.wad"'
+Loaded "C:/quakedev/AVIAOZINHODOTRAFICO3 Early Access Alpha/id1/maps/GLOBE.map" in 4002ms

@@ -1,0 +1,15 @@
+.gradle
+.idea
+
+idTech4Amm/build
+idTech4Amm/release
+idTech4Amm/debug
+
+Q3E/.cxx
+Q3E/build
+
+build.log
+gradle assembleDebug.bat
+gradle assembleRelease.bat
+
+idTech4Amm/src/main/assets/source/DIII4A.source.tgz
